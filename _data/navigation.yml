@@ -1,0 +1,21 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Vision"
+  #  url: /vision/
+  #- title: "People"
+  #  url: /people/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+# journal-nav:
+#   - title: "Journal"
+#     url: /journal/
+#     children:
+#       - title: "All posts"
+#         url: /journal/
