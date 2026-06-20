@@ -1,10 +1,9 @@
 ---
-permalink: /people
+title: "People"
+permalink: /people/
 layout: single
 ---
 
-# People
-
 ## David S
 
-<!-- Chicago -->
+Theological director.
