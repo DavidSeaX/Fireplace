@@ -19,7 +19,7 @@ locale                   : "en-AU"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Fireplace"
 title_separator          : "-"
-subtitle                 : "" # site tagline that appears below site title in masthead
+subtitle                 : "Worship in spirit and in truth" # site tagline that appears below site title in masthead
 name                     : "David R. Stansfield"
 description              : ""
 url                      : "https://fireplaceworship.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

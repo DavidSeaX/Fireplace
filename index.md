@@ -14,7 +14,6 @@ header:
     - label: "Welcome"
       url: "#main"
 #  caption: "<a href='https://???'>&copy;</a>"
-  excerpt: "&nbsp;"
 
 intro: 
   - excerpt: "&nbsp;"
